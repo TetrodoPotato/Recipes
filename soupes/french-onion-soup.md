@@ -8,7 +8,7 @@
 | 5L          | Beef stock                 |
 | 2 tbs       | Thyme                      |
 | 400ml       | Sweet sherry or white wine |
-| 200g        | Butter                     |
+| 100g        | Butter                     |
 | 2 tbs       | Olive oil                  |
 | 1 tsp       | Black pepper               |
 | 2           | Bay leafs                  |
