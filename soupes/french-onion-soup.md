@@ -3,17 +3,13 @@
 ## Incredients
 | Incredients |                            |
 | ----------  | -------------------------- |
-| 2kg         | Onions                     |
-| 2 tbs       | White Sugar                |
-| 5L          | Beef stock                 |
-| 2 tbs       | Thyme                      |
-| 400ml       | Sweet sherry or white wine |
-| 100g        | Butter                     |
+| 1kg         | Onions                     |
+| 1 tsp       | White Sugar                |
+| 800ml       | Beef stock                 |
+| 2 tsp       | Thyme                      |
+| 125ml       | Sweet sherry or white wine |
+| 60g         | Butter                     |
 | 2 tbs       | Olive oil                  |
-| 1 tsp       | Black pepper               |
-| 2           | Bay leafs                  |
-| 3 cloves    | Garlic                     |
-
 
 ## Method
 
