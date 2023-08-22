@@ -7,7 +7,7 @@
 | 1 tsp       | White Sugar                |
 | 800ml       | Beef stock                 |
 | 2 tsp       | Thyme                      |
-| 125ml       | Sweet sherry or white wine |
+| 125ml       | Dry sherry or white wine   |
 | 60g         | Butter                     |
 | 2 tbs       | Olive oil                  |
 
