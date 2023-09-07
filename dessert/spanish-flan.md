@@ -4,41 +4,55 @@
 | ----------  | -------------------- |
 | 200ml       | Milk                 |
 | 1           | Egg (m)              |
-| 30g         | White sugar          |
+| 2x 15g      | White sugar          |
+| 5g Water    | Water                |
+
 
 
 ## Method
 
 ### Step 1
-Put half of the sugar in a saucepan with a small amount of water to caramelise it.\
-It will start to smell burnt. It is ready.
+Put half the sugar in a saucepan with a small amount of water to caramelise it.\
+Very little, enough to wet the sugar but not enough to dissolve it.\
+Put the lid on and don't lift it until the caramel is the colour you want.\
+Use a medium heat so that the caramel can be more caramelised before it has a burnt taste.\
+After a while all the sugar will start to melt and the caramel will start to brown.\
+A lighter colour will taste sweeter and darker will taste bitterer.
 
-### Step 2 
+### Step 2
+Remove from the heat, add the water and let the caramel melt.\
+Put the lid back on after adding the water.\
+It should be liquid when it is hot. When it has cooled a little, it should have a honey-like consistency.
+But pour it in while it is still hot so that it is easier to spread.
+
+### Step 3
 Pour the melted camamel into two aluminium containers.\
 Cover the entire bottom.
 
-### Step 3
+### Step 4
 Boil the milk in the same saucepan, which will probably have some caramel left.
 
-### Step 4
-Whisk the eggs and the other half of the sugar in another bowl large enough to hold all the eggs and milk while the milk heats up.
-
 ### Step 5
-When the milk has come to the boil, pour it all over the beaten eggs, stirring all the time!
+Whisk the eggs with the other half of the sugar in another bowl, large enough to hold all the eggs and milk, while the milk heats up.\
+Do not foam. There should be no air bubbles.
 
 ### Step 6
+When the milk has come to the boil, pour it all over the beaten eggs, stirring all the time!
+Again. Do not foam. You do not want any air bubbles.
+
+### Step 7
 Divide the milk and egg mixture into the two containers.\
 Pass through a sieve to remove the foam and egg clumps.
 
-### Step 7
+### Step 8
 Cover both container with aluminium foil airtight.
 
-### Step 8
+### Step 9
 Steam for 20 minutes at 90 to 95 degrees Celsius.\
 The temperature of the steamer will drop to about 80 degrees Celsius.\
 It will rise again in the first 10 minutes.\
 Do not exceed 95 degrees Celsius! Use a thermometer.
 
-### Step 9
+### Step 10
 Refrigerate for 4 hours.\
 This step is necessary so that all the caramel melts.
