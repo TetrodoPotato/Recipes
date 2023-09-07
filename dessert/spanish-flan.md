@@ -53,6 +53,9 @@ The temperature of the steamer will drop to about 80 degrees Celsius.\
 It will rise again in the first 10 minutes.\
 Do not exceed 95 degrees Celsius! Use a thermometer.
 
+ - If you are steaming on a stove, it is easier to preheat the steamer to 90-95 degrees Celsius and set the stove to maintain this temperature.\
+   Then you add your flan. This way it will not reach more than 95 degrees celcius.
+
 ### Step 10
 Refrigerate for 4 hours.\
 This step is necessary so that all the caramel melts.
