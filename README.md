@@ -1,7 +1,8 @@
 # Recipes
 
 ## Baking
-[Bretzel breadstick](/baking/pretzel-breadstick.md)
+[Bretzel breadstick](/baking/pretzel-breadstick.md)\
+[Cheese Cake Souffle](/baking/cheesecake-souffle.md)
 
 ## Desserts
 [Spanish flan](/dessert/spanish-flan.md) 
