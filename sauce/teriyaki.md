@@ -3,11 +3,11 @@
 ## Incredients
 | Incredients |              |
 | ----------  | ------------ |
-| 10g         | Corn starch  |
+| 20g         | Corn starch  |
 | 100ml       | Water        |
 | 100ml       | Soy sauce    |
 | 100ml       | Sake         |
-| 2 tbs       | Brown sugar  |
+| 30g         | Brown sugar  |
 | 1-2 cloves  | Garlic       |
 
 
