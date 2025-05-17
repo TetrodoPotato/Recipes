@@ -11,5 +11,5 @@
 [Teriyaki sauce](/sauce/teriyaki.md) 
 
 ## Soupes
-[French onion soup](/soupes/french-onion-soup.md)/
+[French onion soup](/soupes/french-onion-soup.md)\
 [Japanese kare.md](/soupes/japanese-kare.md)
