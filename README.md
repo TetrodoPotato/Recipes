@@ -12,4 +12,4 @@
 
 ## Soupes
 [French onion soup](/soupes/french-onion-soup.md)\
-[Japanese kare.md](/soupes/japanese-kare.md)
+[Japanese kare](/soupes/japanese-kare.md)
