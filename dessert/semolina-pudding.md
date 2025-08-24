@@ -1,12 +1,12 @@
 # [<-](../README.md) Semolina Pudding
 
-## Incredients
-| Incredients |              |
-| ----------  | ------------ |
-| 40g         | Erythritol   |
-| 150ml       | Water        |
-| 50g         | Casein       |
-| 30g         | Semolina     |
-| 300ml       | Milk 1.5%    |
+## Ingredients
+| Ingredients |                      |
+|-------------|----------------------|
+| 40g         | Erythritol           |
+| 150ml       | Water                |
+| 50g         | Casein protein powder|
+| 30g         | Semolina             |
+| 300ml       | 1.5% milk            |
 
 

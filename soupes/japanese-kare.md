@@ -6,28 +6,28 @@
 
 Ingredients for 3 Kare portions
 
-| Ingredient      |                |
-| --------------- | -------------- |
-| 3g              | Turmeric       |
-| 1.5g            | Cumin          |
-| 1.5g            | Coriander seeds|
-| 1.5g            | Caraway seeds  |
-| 2g              | Celery seeds   |
-| 0.25g           | Bay leaf       |
-| 3g              | Chili          |
-| 1g              | Thyme          |
-| 0.5g            | Pepper         |
-| 1g              | Garlic         |
-| 1g              | Mustard seeds  |
-| 2.5g            | Orange peel    |
-| 0.25g           | Cinnamon       |
-| 0.1g            | Clove          |
-| 0.1g            | Cardamom       |
-| 100g            | Flour          |
-| 100g            | Fat            |
-| 20g             | Sugar          |
-| 5g              | Glutamate      |
-| 25g             | Salt           |
+| Ingredient      |                            |
+|-----------------|----------------------------|
+| 3g              | Turmeric                   |
+| 1.5g            | Cumin                      |
+| 1.5g            | Coriander seeds            |
+| 1.5g            | Caraway seeds              |
+| 2g              | Celery seeds               |
+| 0.25g           | Bay leaf                   |
+| 3g              | Chili                      |
+| 1g              | Thyme                      |
+| 0.5g            | Pepper                     |
+| 1g              | Garlic                     |
+| 1g              | Mustard seeds              |
+| 2.5g            | Orange peel                |
+| 0.25g           | Cinnamon                   |
+| 0.1g            | Clove                      |
+| 0.1g            | Cardamom                   |
+| 100g            | Flour                      |
+| 100g            | Fat                        |
+| 20g             | Sugar                      |
+| 5g              | Monosodium glutamate (MSG) |
+| 25g             | Salt                       |
 
 ### Method
 
@@ -40,21 +40,21 @@ Take it off the heat and add all spices as powder, stirring well. Make sure that
 
 #### 3. Step
 Add the sugar, salt, and glutamate and stir well. The crystals must not be dissolved.
-Then try to cool down the pan with cold water without adding water to the roux. The roux should be cooled down to be put into some sort of ice cube tray or similar.
+Try to cool down the pan by placing it in cold water, without letting water get into the roux. The roux should be cooled down to be put into some sort of ice cube tray or similar.
 
 #### 4. Step
-Let the roux cool down until the fat is solid again. The roux can be stored in the refrigerator for a long time.
+Let the roux cool until the fat solidifies again. The roux can be stored in the refrigerator for an extended period.
 
 ## Kare
 
-| Ingredient      |                |
-| --------------- | -------------- |
-| 500ml           | Water          |
-| 500g            | Onions         |
-| 150g            | Carrots        |
-| 150g            | Potatoes       |
-| 500g            | Protein Source*|
-| 1 Portion       | Roux           |
+| Ingredient      |                          |
+|-----------------|--------------------------|
+| 500ml           | Water                    |
+| 500g            | Onions                   |
+| 150g            | Carrots                  |
+| 150g            | Potatoes                 |
+| 500g            | Protein source*          |
+| 1 Portion       | Roux                     |
 \* Chicken, pork, beef, tofu, seitan, tempeh, etc.
 
 ### Method
@@ -68,6 +68,6 @@ Pork and beef need up to 1 hour, chicken and tofu only 10-20 minutes.
 Add the carrots and potatoes and let them cook for about 20 minutes. The time depends on the size of the pieces and personal preference.
 
 #### 3. Step
-Add the roux and stir well. The roux should be fully dissolved. If the sauce is too thick, add some water. Let it cook for another 5 to 10 minutes.
+Add the roux and stir well until fully dissolved. If the sauce is too thick, add some water. Let it cook for another 5 to 10 minutes.
 
 Serve the kare with rice.
