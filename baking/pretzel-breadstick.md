@@ -8,7 +8,9 @@
 | 10g         | Salt                      |
 | 7g          | Dry yeast                 |
 | 1 tsp       | Sugar                     |
-| 1g          | Sodium hydroxide (Natron) |
+| 1g          | Sodium hydroxide*         |
+
+*not natron. Its the food grade cleaning stuff.
 
 ## Method
 
