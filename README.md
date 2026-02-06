@@ -7,7 +7,7 @@
 ## Desserts
 [Spanish flan](/dessert/spanish-flan.md)\
 [Semolina Pudding (Light)](/dessert/light-semolina-pudding.md)\
-[Panna Cotta (Light)](/dessert/light-panna-cotta.md)
+[Panna Cotta (Light)](/dessert/light-panna-cotta.md)\
 [Italian chocolate mousse](/dessert/italian-chocolate-mousse.md)
 
 ## Sauces
@@ -18,5 +18,6 @@
 [Japanese kare](/soupes/japanese-kare.md)
 
 ## Icecream bases
-[Light milk icecream base](/icecream/light-milk-icecream-base.md)\
+[Milk icecream base (Light)](/icecream/light-milk-icecream-base.md)\
 [Egg-Milk icecream base](/icecream/egg-milk-icecream-base.md)
+
