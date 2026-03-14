@@ -11,7 +11,7 @@ Ingredients for 3 Kare portions
 | 3g              | Turmeric                   |
 | 1.5g            | Cumin                      |
 | 1.5g            | Coriander seeds            |
-| 1.5g            | Caraway seeds              |
+| 1.5g            | Fenugreek seeds            |
 | 2g              | Celery seeds               |
 | 0.25g           | Bay leaf                   |
 | 3g              | Chili                      |
